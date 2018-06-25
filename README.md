@@ -27,6 +27,6 @@ A Parking plaza needs to automate its car parking functionality. The parking pla
 
 ![Main Interface of System](../master/images/main.png)
 
-### Working Circuit
+### Inner Working
 ![Working Circuit](../master/images/w1.png)
 ![Working Circuit Continued](../master/images/w2.png)
