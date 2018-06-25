@@ -27,6 +27,14 @@ A Parking plaza needs to automate its car parking functionality. The parking pla
 
 ![Main Interface of System](../master/images/main.png)
 
-### Inner Working
+### Main Circuit
 ![Working Circuit](../master/images/w1.png)
 ![Working Circuit Continued](../master/images/w2.png)
+
+### Inner Structure of "Car Counter" Component
+
+![Car Counter 1](../master/images/c1.png)
+![Car Counter 2](../master/images/c2.png)
+![Car Counter 3](../master/images/c3.png)
+
+
