@@ -19,3 +19,14 @@ A Parking plaza needs to automate its car parking functionality. The parking pla
 * Status of Floors
 * Door Locks
 * Parked Cars
+
+
+## Screenshots
+
+### Main Interface
+
+![Main Interface of System](../master/images/main.png)
+
+### Working Circuit
+![Working Circuit](../master/images/w1.png)
+![Working Circuit Continued](../master/images/w2.png)
