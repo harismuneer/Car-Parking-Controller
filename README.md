@@ -38,3 +38,13 @@ A Parking plaza needs to automate its car parking functionality. The parking pla
 ![Car Counter 3](../master/images/c3.png)
 
 
+## Contact
+You can get in touch with me on my LinkedIn Profile: [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+
+## Issues
+If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
+
+## License
+[MIT](../master/LICENSE)
+Copyright (c) 2018-present, harismuneer
+
